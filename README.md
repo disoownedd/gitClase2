@@ -16,7 +16,8 @@
 
 ### Configurar el upstream (subida)
 
-    git push --set upstream origin master
+>    git push --set upstream origin master
+    Configura la subida 
 
 
 ## Comandos de git
