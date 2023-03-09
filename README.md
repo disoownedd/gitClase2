@@ -27,4 +27,6 @@
 
 > git remote add origin URL: Relaciona el repo local y el remoto
 
-> git add archivoAAgregar : agrega al stangin area  
+> git add archivoAAgregar : agrega al stangin area 
+
+> git status : Muestra el estado de los archivos (con o sin seguimiento)
